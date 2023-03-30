@@ -1,0 +1,110 @@
+<div id=Òq1Ó class=ÒquadratoÓ>
+<div id=Òq2Ó class=ÒquadratoÓ>
+
+
+
+
+
+</div>
+
+
+
+
+
+CSS:
+.quadrato[
+           Width:100px
+           Height:100px
+
+]
+
+Se VUOTO:
+.quadrato[
+           Width:100p%
+           Height:0
+
+]
+
+
+*width e height non funziona per span, perchŽ  una linea. CÕ eccezione a base del tipo di elemento viene usato con span.
+
+.quadrato[
+           Width:100px
+           Height:100px
+          Background-color: red
+
+]
+
+#q2[ overflow: scroll  ]
+Ñ>overflow-y:scroll
+Ñ>overflow:auto
+
+Shortcut html 
+.test= <div class=test
+#q3 =<dive id=q3
+
+Css:
+#q3[ background-color: red;
+        Max-width: 600 px;
+        Height : 50px;]
+
+padding
+é lo spazio tra il bordo dic e il testo
+
+#q4 [ padding: 15px; ]
+Ñ>padding-top
+Bottom,left,right
+
+box-sizing; border-box;
+Per evitare che padding sforma
+Perche in automatico si allarga 15px orizzontale solo
+
+
+* [regola generale per tutti css]
+
+<div id=Òq5Ó class=ÒquadratoÓ>
+#q5 [ padding: 15px;
+         Background-color: #color;
+          Border: 10px solid(dotted/dashed/outset/inset) #color
+ ]
+
+Margin: 10 px; su tutti i lati
+Margin: 0  50px; 0=> top, bottom / 50px left, right
+Margin: 0 50px 0 50px; top right bottom left
+
+/]tipografia]/
+body[ font-family:ÓÓHelevetica NeueÓ, Helevetica;
+           Line-height: 1.1rem;
+h1[ font-size: 1.5rem]
+H1, h2, h3, h4, h5, h6 [ font-family: ÒFranklin Gothic Medium!, ÒArial NarrowÓ, Arial, sans-serif;
+                 Font-weight: bold;
+
+:root [
+        Ñmain-color: #color;
+]
+
+Main-color  un variabile creato noi e possiamo utilizzarlo come elemento #color scrivendo var(Ñmain-color)
+
+picsum.photos
+Website for filters or css
+#q4[ background-image: url(www.com), url, url
+        Background: cover ]
+
+Background-size: contain/cover
+Background-repeat: repeat-x, repeat-x, no -repeat
+Background-attachment: fixed
+hyphens: auto; =>crea trattino - quando si fa il word-break: break all
+Display: inline-block
+visibility: hidden. => nessuna sfumatura
+
+Css gradient generator
+
+<div class=ÒcolÓ id=Òg1Ó>
+
+.col: target [ background-color: red]
+
+https://meyerweb.com/eric/tools/css/reset/
+
+www.fontawesome.com
+
+
