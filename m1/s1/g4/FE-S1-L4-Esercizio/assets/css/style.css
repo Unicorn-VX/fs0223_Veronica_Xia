@@ -4,6 +4,9 @@
     background-image: url(../img/sfondo.png);
 }
 /* HEADER */
+#logo{
+    object-position: center;
+}
 #heading{
     text-transform: uppercase;
     font-weight: bold;
@@ -25,12 +28,10 @@
     min-width: 450px;
     height: auto;
     background-color: rgb(36, 106, 134);
-    margin-top: 20px;
-    margin-left: 100px;
-    margin-right: 100px;
-    margin-bottom: 30px;
+    object-position: center;
     text-align: center;
     align-items: center;
+    margin-top: 20px;
 }
 
 /* MAIN */
