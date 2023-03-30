@@ -8,14 +8,22 @@
     text-transform: uppercase;
     font-weight: bold;
     margin-top: 20px;
+    color:white;
 }
 
 #navigation{
     text-transform: uppercase;
+    font-weight: bold;
     margin-top: 20px;
 }
+
+.color_white{
+    color:white;
+}
+
 #sfondo_light_blue{
     background-color: skyblue;
+    
 }
 .header_box{
     width: fit-content;
