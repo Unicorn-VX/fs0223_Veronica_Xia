@@ -1,21 +1,28 @@
 /* IMPOSTAZIONI GENERALI */
-
+:root{
+    font-family: 'Poppins', sans-serif;
+    
+}
 /* HEADER */
 #heading{
     text-transform: uppercase;
+    font-weight: bold;
+    margin-top: 20px;
 }
 
 #navigation{
     text-transform: uppercase;
+    margin-top: 20px;
 }
 #sfondo_light_blue{
     background-color: skyblue;
 }
-.square{
+.header_box{
     width: fit-content;
     height: auto;
     background-color: skyblue;
-    margin: 10px;
+    margin-block: 30px;
+    text-align: center;
 }
 
 /* MAIN */
