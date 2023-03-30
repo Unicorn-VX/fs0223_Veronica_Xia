@@ -1,6 +1,22 @@
 /* IMPOSTAZIONI GENERALI */
 
 /* HEADER */
+#heading{
+    text-transform: uppercase;
+}
+
+#navigation{
+    text-transform: uppercase;
+}
+#sfondo_light_blue{
+    background-color: skyblue;
+}
+.square{
+    width: fit-content;
+    height: auto;
+    background-color: skyblue;
+    margin: 10px;
+}
 
 /* MAIN */
 
