@@ -1,7 +1,7 @@
 /* IMPOSTAZIONI GENERALI */
 :root{
     font-family: 'Poppins', sans-serif;
-    
+    background-image: url(../img/sfondo.png);
 }
 /* HEADER */
 #heading{
@@ -21,16 +21,16 @@
     color:white;
 }
 
-#sfondo_light_blue{
-    background-color: skyblue;
-    
-}
 .header_box{
-    width: fit-content;
+    min-width: 450px;
     height: auto;
-    background-color: skyblue;
-    margin-block: 30px;
+    background-color: rgb(36, 106, 134);
+    margin-top: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 30px;
     text-align: center;
+    align-items: center;
 }
 
 /* MAIN */
