@@ -1,0 +1,56 @@
+Titoli azzurri sono identici
+Font e stile uguale
+
+Dare font per tutto il body, e poi cambia con class
+
+Titolo bianco o titolo azzurro
+
+
+HEADER senza nav
+
+Episode Garantisce  fine di main
+
+Resto  secondario aside
+
+Contattaci  un footer
+
+
+Spaziatura sinistra e a destra:
+Non dare una larghezza  AUTOMATICO CON FINESTRA MOBILE
+
+Padding si usa nella prova
+Quando hai una area, e devi spostare i contenuti stringendo.
+Use also box-sizing: border box
+
+
+MARGIN si usa solo per allontanare uno da un altro
+
+
+Titolo e Description Ñ> <head>
+
+<body class=ÒfontÓ>
+Line height: 1.65
+
+Headings un altro font
+
+Footer color:
+
+Footer heading:
+
+Footer link:
+
+
+IL TUO PC:
+Contiene un border attorno
+
+LayoutMobile
+DIV
+H3
+P
+
+DIV
+H3
+P
+
+Testi testimonianze : Area Arancione
+
