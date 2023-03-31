@@ -1,7 +1,7 @@
 /* Header */
 #sfondo_header{
     background-color:black;
-    width: 100%;
+    min-width: 100%;
     height:100px;
 }
 
@@ -26,7 +26,6 @@ p{
     color:#393d41;
     font-family:'Open Sans', sans-serif;
     font-weight:200;
-    font-size: medium;
     padding-top:5%;
     padding-left: 15%;
     padding-right: 15%;
@@ -36,10 +35,9 @@ p{
 
 /*section 1*/
 .b_image{
-    width: 100%;
-    height: 400px;
+    min-width: 100%;
+    height: fit-content;
     background-image: url('../images/banner.jpg');
-    background-position: center;
     background-size: cover;
 }
 
@@ -63,12 +61,12 @@ p{
 
 #notebook{
     border-radius: 50%;
-    margin-top: 10%;
 }
 
 /*section 3*/
 .b_o{
     background-color: #f04c2f;
+    min-width:100%;
     height: 250px;
 }
 
