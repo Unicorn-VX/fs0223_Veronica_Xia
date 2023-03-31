@@ -28,8 +28,8 @@ p{
     font-weight:200;
     font-size: medium;
     padding-top:5%;
-    padding-left: 10%;
-    padding-right: 10%;
+    padding-left: 15%;
+    padding-right: 15%;
     line-height: 1.65;
 
 }
@@ -55,3 +55,32 @@ p{
     padding: 1rem;
     margin: 10%;
 }
+
+/*section2*/
+.small_title{
+    font-size: 1.5rem;
+}
+
+#notebook{
+    border-radius: 50%;
+    margin-top: 10%;
+}
+
+/*section 3*/
+.b_o{
+    background-color: #f04c2f;
+    height: 250px;
+}
+
+.f_w{
+    color:white
+}
+
+.f_w_title{
+    font-size: 1.5rem;
+}
+
+.italic{
+    font-style: italic;
+}
+
