@@ -29,6 +29,7 @@ p{
     padding-top:5%;
     padding-left: 15%;
     padding-right: 15%;
+    padding-bottom: 5%;
     line-height: 1.65;
 
 }
@@ -66,8 +67,10 @@ p{
 /*section 3*/
 .b_o{
     background-color: #f04c2f;
-    min-width:100%;
-    height: 250px;
+    padding-top: 30px;
+    padding-right: 15px;
+    padding-bottom: 30px;
+    padding-left: 15px;
 }
 
 .f_w{
@@ -82,3 +85,13 @@ p{
     font-style: italic;
 }
 
+
+
+.borde{
+    border: 3px solid  #dee1e3;
+    outline: 7px solid black;
+}
+
+#img{
+    max-width: 100%;
+}
