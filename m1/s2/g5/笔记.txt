@@ -1,0 +1,18 @@
+display:Inline block
+
+
+Height
+Width 
+Background image cover
+Background size
+Margine laterale
+Box shadow 10px.  s1g4
+Border radius
+
+Text align: center
+Display inline block
+
+
+Per tutti inline block
+Vertical align: top
+
